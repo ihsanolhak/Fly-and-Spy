@@ -107,6 +107,6 @@ This software is for educational purposes only. **Do not** deploy this project o
 
 ## Author
 
-**Muhammad Adeel Haider**  
-[GitHub Profile](https://github.com/4deeel)  
+**Muhammad Ihsan Ul Haq**  
+[GitHub Profile](https://github.com/ihsanolhak)  
 BS Cybersecurity – Air University
